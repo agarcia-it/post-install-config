@@ -7,6 +7,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
+- osTicket
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
@@ -15,13 +16,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
+<h2>Prerequisites and Links</h2>
+
+- <a href="https://github.com/agarcia-it/osticket-prereqs">osTicket-prereqs</a>
+- osTicket Admin Login: http://localhost/osTicket/scp/login.php (requires completion osTicket-prereqs)
+
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Set up the osTicket Environment
+- Examine Roles, Departments, Teams, Admins, Agents, Users, SLA's, and Help Topics
 
 <h2>Configuration Steps</h2>
 
