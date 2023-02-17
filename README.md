@@ -74,10 +74,11 @@ Now we have different SLA's for different severity tickets. SEV-A is the highest
 <br />
 
 <p> 5.) <strong>Configure Help Topics - </strong>Help Topics are pre-configured categories of issues that end-users might experience. They can be relevant to specific software or devices that a company may use, and give help desk professionals the ability to further organize and respond to tickets. To create a new Help Topic, navigate to: Admin Panel -> Manage -> Help Topics and click + Add New Help Topic. Create 4 new Help Topics (Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Reset) with default settings.
-<br /><br />
-- We now have the osTicket set up and ready to service some mock tickets.
 </p>
 <p>
 <img src="https://i.imgur.com/88aOVdt.png" height="85%" width="85%%"/>
+</p>
+<p>
+We now have osTicket set up and are ready to service some mock tickets.
 </p>
 <br />
