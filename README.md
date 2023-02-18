@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Prerequisites and Links</h2>
 
 - <a href="https://github.com/agarcia-it/osticket-prereqs">osTicket-prereqs</a>
-- osTicket Admin Login: http://localhost/osTicket/scp/login.php (requires completion osTicket-prereqs)
+- osTicket Admin Login: http://localhost/osTicket/scp/login.php (requires completion osTicket-prereqs to function properly)
 
 <h2>Post-Install Configuration Objectives</h2>
 
